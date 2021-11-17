@@ -1,0 +1,139 @@
+body {
+    background-image:url("https://images.unsplash.com/photo-1628760584600-6c31148991e9?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfGlVSXNuVnRqQjBZfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60");
+    background-size: 1300px;
+}
+
+.intro {
+    background-color: rgba(191, 235, 248, 0.644);
+    padding: 80px;
+    margin-top: 120px;
+    border:solid 2px #2980B9
+    
+}
+
+
+
+h3 {
+    color: #252525;
+    align-items: center;
+    margin-top: 60px;
+    block-size: 10px;
+    margin-left: -50px;
+    font-family: "IBM Plex Sans Thai Looped";
+    font-weight: bold;
+   
+    
+}
+
+.shank {
+    height: 450px;
+    width: 420px;
+    margin-left: 390px;
+}
+
+
+h2 {
+    font-size: 54px;
+    color: #252525;
+    margin-top: 50px;
+    margin-left: 270px;
+    font-weight: bold;
+}
+
+nav {
+    margin-top: 20px;
+    color: #f1f1f1;
+    font-weight: bold;
+    margin-left: -99px;
+    display: inline-block;
+    font-size: 25px;
+}
+
+.navi {
+    color: #252525;
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+
+}
+
+.navi:hover{
+   background-color: rgba(53, 137, 163, 0.644);
+   padding: 1px;
+   margin: 0%;
+   border-radius: 5px;
+   border: solid 1px #f1f1f1b6;
+
+}
+
+h1 {
+    background-color: rgba(134, 181, 196, 0.911);
+    color: #252525;
+    padding: 10px;
+    margin-top: -10px;
+
+}
+
+.project {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 300px;
+    font-family: "IBM Plex Sans Thai Looped";
+    font-weight: 700;
+   
+}
+
+.project:hover {
+    color: rgba(14, 35, 41, 0.644);
+}
+
+.project-img {
+    width: 480px;
+    height: 530px;
+    border: solid 2px rgba(191, 235, 248, 0.644);
+    margin-left: 400px;
+}
+
+.me {
+    color: #f1f1f1;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 250px;
+    font-family: IBM Plex Sans Thai Looped;
+}
+
+.me:hover {
+    color: rgba(53, 137, 163, 0.644);
+}
+
+.about {
+    width: 540px;
+    height: 550px;
+    border: solid 2px rgba(191, 235, 248, 0.644);
+    margin-top: 80px;
+    margin-left: 390px;
+}
+
+
+.contact {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 250px;
+    font-family: "IBM Plex Sans Thai Looped";
+    font-weight: 700;
+}
+
+.contact:hover{
+  color: rgba(29, 29, 29, 0.425);
+  text-decoration: black;
+    
+
+}
+
+
+.icon {
+   
+   margin-left: 240px;    
+}
